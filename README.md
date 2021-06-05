@@ -6,4 +6,8 @@ print, 정수형, 문자형과 논리형, 실수형, 입력문<br>
 
 ###Chapter2: 연산자<br>
 산술, 복합대입, 증감, 관계논리, 삼항 <br>
-2021.06.05(before 00:10) upload<br>
+2021.06.05(before 00:10) upload<br><br>
+
+###Chapter3: 제어문과 반복문<br>
+ifelse, switch-case, for, 이중for문, while, break&continue, practice <br>
+2021.06.05(about 22:00) upload<br>
