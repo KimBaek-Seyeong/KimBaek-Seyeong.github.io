@@ -1,0 +1,16 @@
+
+public class Ex05_08_¿Á±Õ»£√‚ {
+
+	public static void main(String[] args) {
+		
+		show(3);
+	}
+	
+	static void show(int cnt) {
+		System.out.println("Hi, No."+cnt);
+		if(cnt==1) {
+			return;
+		}
+		show(--cnt);
+	}
+}
