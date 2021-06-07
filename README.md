@@ -21,3 +21,7 @@ ifelse, switch-case, for, 이중for문, while, break&continue, practice <br>
 ###Chapter5: 클래스<br>
 클래스, 메서드, 변수, 재귀호출, Math, overloading, setter&getter, 생성자, 객체배열<br>
 2021.06.06 upload<br>
+
+###Chapter6: 상속 <br>
+상속, super, 포함, import, 다형성, 추상, interface, practice <br>
+2021.06.07 upload<br>
