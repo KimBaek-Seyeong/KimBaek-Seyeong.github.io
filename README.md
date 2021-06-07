@@ -25,3 +25,7 @@ ifelse, switch-case, for, 이중for문, while, break&continue, practice <br>
 ###Chapter6: 상속 <br>
 상속, super, 포함, import, 다형성, 추상, interface, practice <br>
 2021.06.07 upload<br>
+
+###Chapter7: 예외처리<br>
+예외처리, error, throw, throws<br>
+2021.06.07 upload<br>
