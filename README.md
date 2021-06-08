@@ -29,3 +29,11 @@ ifelse, switch-case, for, 이중for문, while, break&continue, practice <br>
 ###Chapter7: 예외처리<br>
 예외처리, error, throw, throws<br>
 2021.06.07 upload<br>
+
+###Chapter8: 내부클래스<br>
+staticInner, instanceInner, localInner, anonymous<br>
+2021.06.08 upload<br>
+
+###Chapter9: 패키지<br>
+toString, string, wrapper, math, stringTokenizer, calendar, date, practice <br>
+2021.06.08 upload<br>
